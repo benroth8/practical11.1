@@ -1,6 +1,7 @@
 # Python Notebook
 https://github.com/benroth8/practical11.1/blob/main/practical_application_II_starter/prompt_II.ipynb
 
+Note: The bar chart may not appear in the python notebook - I included it in the images folder.
 # Findings
 
 After analyzing data from historical used car sales and creating a model to predict the price of a used car, I've identified some key points you can use to tune your inventory. The most important features when it comes to predicting the price of a used car are - Manufacturer, Title Status, Transmission, Size, and odometer ^ 2.
